@@ -1,5 +1,5 @@
 ```bash
-reconstrucao_radon/
+image_reconstruction/
 │
 ├── main.py
 ├── image_utils.py
